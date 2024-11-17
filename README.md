@@ -5,8 +5,8 @@
 Welcome to my GitHub! I'm a Computer Engineering student at the University of Waterloo with a focus on software development, embedded systems, and real-world engineering solutions. Here, you'll find my latest projects in firmware development, data applications, and technical problem-solving.
 
 ## 🔧 Skills & Tools
-- **Languages:** Java, C, C++, Python, SQL, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** MySQL, PyDictionary, Java Swing, SpellChecker
+- **Languages:** Python, SQL, C, C++, JavaScript, CSS, Java, HTML
+- **Frameworks & Libraries:** React, MySQL, Axios, Java Swing, PyDictionary, SpellChecker
 - **Hardware & Protocols:** STM32, I2C, SPI, UART
 - **Development Tools:** Git, Visual Studio Code, Eclipse
 
