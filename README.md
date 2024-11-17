@@ -12,6 +12,9 @@ Welcome to my GitHub! I'm a Computer Engineering student at the University of Wa
 
 ## 💻 Notable Projects
 
+- **[Flash Card Study Tool](https://github.com/julianchen24/Flash-Card-Study-Tool)**  
+   *React, JavaScript, Axios, CSS, HTML*: A dynamic flashcard web application with real-time card-flipping animations and optional custom flashcard creation. Integrated the Open Trivia Database API to fetch educational categories and questions.
+
 - **[Calendar Application](https://github.com/julianchen24/Calendar-Java-Project)**  
    *Java, MySQL*: A Java-based calendar tool with GUI for scheduling, editing, and a full-year view. Integrated MySQL for data storage and management.
 
