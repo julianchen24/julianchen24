@@ -1,40 +1,73 @@
-# 👋 Hi, I'm Julian Chen!
+# 👋 Hi, I'm Julian Chen
 
-**Aspiring Computer Engineer** | **Firmware Enthusiast** | **Problem Solver**
+**Aspiring Software Engineer** | **Full-Stack Developer** | **Cloud Computing Enthusiast** | **AI/ML Explorer**
 
-Welcome to my GitHub! I'm a Computer Engineering student at the University of Waterloo with a focus on software development, embedded systems, and real-world engineering solutions. Here, you'll find my latest projects in firmware development, data applications, and technical problem-solving.
+Welcome to my GitHub! I'm a Computer Engineering student at the University of Waterloo focused on building practical, scalable software and embedded systems solutions. I enjoy working across full-stack development, cloud platforms, and machine learning, always aiming to create impactful technology.
 
-## 🔧 Skills & Tools
-- **Languages:** Python, SQL, C, C++, JavaScript, CSS, Java, HTML
-- **Frameworks & Libraries:** React, MySQL, Axios, Java Swing, PyDictionary, SpellChecker
-- **Hardware & Protocols:** STM32, I2C, SPI, UART
-- **Development Tools:** Git, Visual Studio Code, Eclipse
+---
 
-## 💻 Notable Projects
+## 🔧 Skills
 
-- **[Flash Card Study Tool](https://github.com/julianchen24/Flash-Card-Study-Tool)**  
-   *React, JavaScript, Axios, CSS, HTML*: A dynamic flashcard web application with real-time card-flipping animations and optional custom flashcard creation. Integrated the Open Trivia Database API to fetch educational categories and questions.
+**Languages:**  
+Python, TypeScript, JavaScript, C++, C, C#, Java, SQL (MySQL, PostgreSQL), PL/SQL, VHDL
 
-- **[Calendar Application](https://github.com/julianchen24/Calendar-Java-Project)**  
-   *Java, MySQL*: A Java-based calendar tool with GUI for scheduling, editing, and a full-year view. Integrated MySQL for data storage and management.
+**Frameworks & Libraries:**  
+FastAPI, React, Next.js, Django, Flask, Java Swing, Bootstrap, Tailwind CSS, PyTorch, Scikit-learn, Pandas, NumPy, SQLAlchemy, BeautifulSoup4
 
-- **[Tic-Tac-Toe & Wordle Game](https://github.com/julianchen24/Wordle-Tic-Tac-Toe-Python-Project)**  
-   *Python*: Command-line multi-game program with real-time word validation using SpellChecker and word definitions from PyDictionary.
+**Tools & Platforms:**  
+Docker, Azure, Git, Linux, SQLite, PostgreSQL, HTML/CSS, Jupyter Notebook, Unity, MATLAB, Fusion360, COMSOL
 
-- **[To-Do List](https://github.com/julianchen24/To-Do-List-Java-Project)**  
-   *Java*: Command-line task manager with color-coded priorities and time tracking for better organization.
+**Hardware & Protocols:**  
+STM32, Arduino, I2C, SPI, UART, FreeRTOS, Soldering, Oscilloscopes, Digital Multimeters (DMM)
 
-## 🛠️ Recent Experience
-- **Firmware Team Member** - Midnight Sun Solar Car Design Team  
-   - Developed IC drivers for STM32 to convert analog to digital readings, designed tamper-detection drivers, and configured multi-channel ADC for efficient data processing.
-  
-- **Learning Assistant** - Kumon Math and Reading Centre  
-   - Guided learning sessions for 25+ students per session, enhanced data tracking for student progress, and trained new staff in communication and problem-solving.
+---
 
-## 🌱 I'm Currently Learning
+## 🛠 Notable Projects
+
+- [**FluentAI**](https://github.com/julianchen24/FluentAI) —  
+  *Python, FastAPI, Marian-NMT, Opus-MT, Docker*  
+  Built an on-prem machine translation system supporting 2500+ directional language pairs with dynamic model loading, caching, and translation pivoting.
+
+- [**Termium Plus API**](https://github.com/julianchen24/Termium-Plus-API) —  
+  *Python, FastAPI, JavaScript, HTML/CSS, Docker, SQLite*  
+  Developed a REST API for Government of Canada’s TERMIUM Plus® database with fuzzy multilingual search across 2.1M entries.
+
+- [**AI Vectorizer**](https://github.com/julianchen24/AI-Vectorizer) —  
+  *React, JavaScript, Tailwind CSS, Python, FastAPI, Scikit-learn, D3.js, NumPy*  
+  Created a full-stack AI document intelligence platform featuring 2D embedding visualizations and advanced keyword/semantic search.
+
+- [**Croak Quest (nwHacks 2025 Winner)**](https://github.com/julianchen24/Croak-Quest) —  
+  *C#, Unity, Leap Motion SDK*  
+  Built a gesture-controlled ASL learning platformer game with real-time physics-based movement and sub-0.03s input latency.
+
+---
+
+## 💼 Experience
+
+**Autonomous Software Developer** — WATonomous  
+*Jan 2025 – Present*  
+- Built autonomous navigation and real-time obstacle detection systems using C++, Python, and ROS2.
+
+**Database Analyst** — Blue Insight Consultation  
+*Jan 2025 – Apr 2025*  
+- Developed PL/SQL scripts for enterprise-scale data analysis and improved system reliability to 99.8% uptime.
+
+**Azure AI Developer Intern** — Resonate AI  
+*Jan 2025 – Apr 2025*  
+- Built ESG-BERT NLP classification system achieving 97% accuracy and led presentations of ESG analytics.
+
+**Firmware Developer** — Midnight Sun Solar Car  
+*Sep 2024 – Dec 2024*  
+- Developed STM32 tamper-detection drivers and multi-channel ADC signal processing firmware in C/C++.
+
+---
+
+## 🌱 Currently Learning
 - Expanding my knowledge in machine learning fundamentals and exploring cloud solutions for real-time data handling.
+---
 
-## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/julian--chen](https://www.linkedin.com/in/julian--chen)
-- **Email:** jy24chen@uwaterloo.ca
+## 📫 Connect with Me
 
+- 🌐 Website: [julianchen.net](https://julianchen.net/)
+- 💼 LinkedIn: [linkedin.com/in/julian--chen](https://www.linkedin.com/in/julian--chen/)
+- 📧 Email: jy24chen@uwaterloo.ca
