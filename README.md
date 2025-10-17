@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Julian Chen
 
-**Aspiring Software Engineer** | **Full-Stack Developer** | **Cloud Computing Enthusiast** | **AI/ML Explorer**
-
 Welcome to my GitHub! I'm a Computer Engineering student at the University of Waterloo focused on building practical, scalable software and embedded systems solutions. I enjoy working across full-stack development, cloud platforms, and machine learning, always aiming to create impactful technology.
 
 ---
@@ -50,27 +48,6 @@ Welcome to my GitHub! I'm a Computer Engineering student at the University of Wa
 
 ---
 
-## 🛠 Notable Projects
-
-- [**FluentAI**](https://github.com/julianchen24/FluentAI) —  
-  *Python, FastAPI, Marian-NMT, Opus-MT, Docker*  
-  Built an on-prem machine translation system supporting 2500+ directional language pairs with dynamic model loading, caching, and translation pivoting.
-
-- [**Termium Plus API**](https://github.com/julianchen24/Termium-Plus-API) —  
-  *Python, FastAPI, JavaScript, HTML/CSS, Docker, SQLite*  
-  Developed a REST API for Government of Canada’s TERMIUM Plus® database with fuzzy multilingual search across 2.1M entries.
-
-- [**AI Vectorizer**](https://github.com/julianchen24/AI-Vectorizer) —  
-  *React, JavaScript, Tailwind CSS, Python, FastAPI, Scikit-learn, D3.js, NumPy*  
-  Created a full-stack AI document intelligence platform featuring 2D embedding visualizations and advanced keyword/semantic search.
-
-- [**Croak Quest (nwHacks 2025 Winner)**](https://github.com/julianchen24/Croak-Quest) —  
-  *C#, Unity, Leap Motion SDK*  
-  Built a gesture-controlled ASL learning platformer game with real-time physics-based movement and sub-0.03s input latency.
-
----
-
-![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianchen24&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with Me
 
