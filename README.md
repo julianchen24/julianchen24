@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a Computer Engineering student at the University of Waterloo focused on building practical, scalable software and embedded systems solutions. I enjoy working across full-stack development, cloud platforms, and machine learning, always aiming to create impactful technology.
 
 ## Current Role
-🚀 Software Engineering Intern at Microchip Techlogy Inc.
+🚀 Software Engineering Intern at Shopify
 
 ---
 
